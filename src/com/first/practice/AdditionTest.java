@@ -13,6 +13,7 @@ public class AdditionTest {
 		int b=sc.nextInt();
 		System.out.println("addition of a and b is "+(a+b));
 		System.out.println("testing commit");
+		System.out.println("another commit");
 	}
 
 }
