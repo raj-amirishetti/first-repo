@@ -23,7 +23,7 @@ public class StudentData {
 		obj.m1(102, "Anil", 'C');
 		obj.m1(103, "Arun", 'A');
 		obj.m1(104, "Pavan", 'B');
-		obj.m1(402, "Laxmi", 'D');	
+		obj.m1(402, "Laxmi", 'A');	
 	}
 
 }
