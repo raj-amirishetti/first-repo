@@ -12,6 +12,7 @@ public class AdditionTest {
 		System.out.println("enter the value for b");
 		int b=sc.nextInt();
 		System.out.println("addition of a and b is "+(a+b));
+		System.out.println("testing commit");
 	}
 
 }
