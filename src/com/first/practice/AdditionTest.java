@@ -14,6 +14,7 @@ public class AdditionTest {
 		System.out.println("addition of a and b is "+(a+b));
 		System.out.println("testing commit");
 		System.out.println("another commit");
+		System.out.println("commit");
 	}
 
 }
