@@ -16,6 +16,7 @@ public class HashmapConcept {
 		map.put(3, "Anil");
 		map.put(4, "Ranjith");
 		map.put(5, "Sai");
+		map.put(5, "raj");
 
 		System.out.println("21 line " + map.get(2));
 		System.out.println("22 line " + map.containsKey(3));
