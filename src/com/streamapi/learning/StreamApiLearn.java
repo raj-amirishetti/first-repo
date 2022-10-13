@@ -21,6 +21,7 @@ public class StreamApiLearn {
 		list1.add(16);
 		list1.add(8);
 		list1.add(7);
+		list1.add(333);
 
 		System.out.println(list1);
 
